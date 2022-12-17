@@ -1,4 +1,4 @@
 # githubeducation
  Github eğitimi için oluşturuldu
 
- Ben halil merhaba 
+ Bugün hava çok güzel
